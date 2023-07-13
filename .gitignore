@@ -1,0 +1,7 @@
+.vscode
+raytracer
+*.ppm
+*.txt
+html
+latex
+DebugManager.hpp
